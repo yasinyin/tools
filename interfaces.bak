@@ -17,4 +17,4 @@ address 192.168.5.3
 netmask 255.255.255.0
 
 auto ens224
-inface ens224 inet dhcp
+iface ens224 inet dhcp
